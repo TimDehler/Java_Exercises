@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/InformationFolder/arrays/OOMObjectsandClasses.iml" filepath="$PROJECT_DIR$/deTimJava/InformationFolder/arrays/OOMObjectsandClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/InformationFolder/arrays/arrays.iml" filepath="$PROJECT_DIR$/deTimJava/InformationFolder/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/Exercises/conditions/conditions.iml" filepath="$PROJECT_DIR$/deTimJava/Exercises/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/Exercises/loops/loops.iml" filepath="$PROJECT_DIR$/deTimJava/Exercises/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/Exercises/mathTasks/mathTasks.iml" filepath="$PROJECT_DIR$/deTimJava/Exercises/mathTasks/mathTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/InformationFolder/methods/methods.iml" filepath="$PROJECT_DIR$/deTimJava/InformationFolder/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/InformationFolder/oom/oom.iml" filepath="$PROJECT_DIR$/deTimJava/InformationFolder/oom/oom.iml" />
+    </modules>
+  </component>
+</project>
